@@ -22,7 +22,6 @@ body {
     background-color: white;
     width: 500px;
     margin: 0 auto;
-    padding: 10px;
 }
 
 img {
@@ -30,6 +29,13 @@ img {
     height: 400px;
     text-align: center;
     width: 600px;
+}
+
+h4 {
+    text-align: left;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 22px;
 }
 
 .post-header {
